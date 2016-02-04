@@ -21,5 +21,5 @@ Left | Right
 
 ~~learn to type emojis~~
 
-:alien: :baseball: :koala: :camel: :green_heart: :us: :cat: :bowtie:
+:cat: :alien: :baseball: :koala: :camel: :green_heart: :us: :bowtie:
 
