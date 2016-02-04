@@ -19,4 +19,7 @@ Left | Right
 -----|------
 48% | 52%
 
+~~learn to type emojis~~
+
+:alien: :baseball: :koala: :camel: :green_heart: :us: :taco: :bowtie:
 
