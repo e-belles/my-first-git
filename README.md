@@ -1,2 +1,2 @@
 # my-first-git
-Learning 
+Trying to learn how this all works
