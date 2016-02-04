@@ -1,2 +1,22 @@
-# my-first-git
+my-first-git
+-----------------
+
 Trying to learn how this all works
+
+* One 
+
+* Two
+
+* Three
+
+**bold** 
+
+*italic*
+
+[Google](http://www.google.com)
+
+Left | Right
+-----|------
+48% | 52%
+
+
