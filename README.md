@@ -18,5 +18,6 @@ Trying to learn how this all works
 Left | Right
 -----|------
 48% | 52%
+6|8
 
 
